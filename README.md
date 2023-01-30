@@ -15,7 +15,7 @@ Install my-project with npm
 ```bash 
  pip install turtle
 ```
-    After above necessities are satisfied, Run the installer
+After above necessities are satisfied, Run the installer
 ## Screenshots
 
 ![App Screenshot](https://github.com/Nikhil-Krishnan-T/Graphics-With-Python/blob/main/Result/Screenshot%202023-01-30%20120417.png)
